@@ -1,4 +1,4 @@
-![image](https://github.com/VuxNx/TESTCASE_KTLT2/assets/158649859/7099ccac-05df-4075-8f4f-aaca1c57cca9)# TESTCASE_KTLT2
+# TESTCASE_KTLT2
 -Đây là bản kiểm thử cho bài tập lớn kỹ thuật lập trình 2. Đây là bộ kiểm hoàn toàn được tạo nên theo kết quả của chủ tus :D
 - Để thực hiện chạy testcase này, đầu tiên bạn cần tải về trước và follow theo các bước sau:
     - Bước 1: giải nén tập tin.
