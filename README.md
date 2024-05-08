@@ -8,5 +8,5 @@
         - Tiếp theo, đặt dòng này vào trước khi thoát vòng for lớn, trên điều kiện break vòng for nếu isStop() == true: ![image](https://github.com/VuxNx/TESTCASE_KTLT2/assets/158649859/59e7819d-4a8d-4e8b-8ab9-f751d9e66007). Sau đó tiến hành comment dòng prinstep().
         - Tiến hành sửa đổi path dẫn cả trong judge.cpp và study_in_pink2.cpp. Vì một số lý do chưa rõ nên, *hãy chia ra làm hai lần chạy, lần 1 từ 1 đến 67, lần 2 từ 68 đến 100.*
 - Tiến hành compile và exec như bình thường.
-
+- Hãy xóa folder expect trong testcase đi và thay bằng thư mục expect ở ngoài nhá
 
